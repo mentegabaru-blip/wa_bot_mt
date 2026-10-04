@@ -1,0 +1,39 @@
+{
+  "botName": "Mew BOT",
+  "botNumber": "6281234567890",
+  "website": "mewtype.my.id",
+  "prefix": ".",
+  "selfTestMode": false,
+  "is_on_dev": false,
+  "target_dev_group": "120363413632789317@g.us",
+  "detect_userinout_gid": "120363410417446104@g.us",
+  "welcome_target_gid": "120363430517684686@g.us",
+  "cooldown": {
+    "enabled": true,
+    "duration": 3000
+  },
+  "block_private_chat": true,
+  "msg_body": {
+    "footer": "MewType Network • 2026"
+  },
+  "canvas_banner": {
+    "welcome_bg": "https://assetsio.gnwcdn.com/minecraft-shaders-pine-shaders-1.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
+    "goodbye_bg": "https://cdn.modrinth.com/data/EpQFjzrQ/images/b87a4f77d7858c6b8fb9ecc40301f9d189a52c44.jpeg"
+  },
+  "reactions": {
+    "loading": "⏳",
+    "success": "✅",
+    "error": "❌",
+    "unknown": "❓"
+  },
+  "minecraft_config": {
+    "bedrock": {
+      "ip": "iftecen.my.id",
+      "port": 19132
+    },
+    "java": {
+      "ip": "iftecen.my.id",
+      "port": 25565
+    }
+  }
+}
